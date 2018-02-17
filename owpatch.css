@@ -1,0 +1,36 @@
+.table-striped >tbody >tr>td{
+	padding: 5px;
+}
+body{
+	background-color: #F4F5F7;
+}
+hr{
+	color: #C9C9C9;
+
+}
+#map {
+        height: 400px;
+        width: 100%;
+       }
+
+.navigation{
+	background-color: white;
+}
+.navigation .navbar-brand {
+	height: 70px;
+}
+.navigation .nav >li >a {
+	padding-top: 25px;
+	padding-bottom: 10px;
+	font: 50pt;
+	color:#00a0ea;
+}
+.navigation .navbar-toggle {
+	padding: 10px;
+	margin: 25px 15px 25px 0;
+	color: #00a0ea;
+	width: 50px;
+}
+h2{
+	color:#FFA833;
+}
